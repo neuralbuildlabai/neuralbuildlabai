@@ -21,10 +21,10 @@ Most project repositories are private. Happy to walk through any of them on requ
 
 ## What I work with
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
-**Backend & data:** Supabase (Postgres, Auth, Storage, RLS), PHP, Node.js
-**Integrations:** M-Pesa Daraja, email providers, AI model APIs
-**Delivery:** Vercel, shared hosting, automated backups
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend & data:** Supabase (Postgres, Auth, Storage, RLS), PHP, Node.js
+- **Integrations:** M-Pesa Daraja, email providers, AI model APIs
+- **Delivery:** Vercel, shared hosting, automated backups
 
 ## Get in touch
 
