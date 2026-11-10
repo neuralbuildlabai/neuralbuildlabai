@@ -14,7 +14,7 @@ I build AI-assisted web platforms and operational software for communities, smal
 | **Jifunze AI** | AI-assisted social learning media system that turns developments in AI, work and digital opportunity into verified, human-reviewed learning content for African and diaspora professionals. | TypeScript · AI pipelines |
 | **[Kenyans in Greater Houston](https://github.com/neuralbuildlabai/kenyan-community-houston)** | Community platform for events, announcements, businesses, fundraisers, sports, gallery and newcomer resources, with an admin moderation portal. | React · TypeScript · Tailwind · Supabase |
 | **AfriSora Advisory** | Public site for an advisory firm supporting Kenyan institutions, businesses and development partners across four practice areas. | React · TypeScript · PHP |
-| **[MOBA 99](https://moba99.org)** | Benevolent fund platform with member and officer portals, a rules engine for fund regulations, and a setup wizard so any community group can run it. | TypeScript |
+| **MOBA 99** | Benevolent fund platform with member and officer portals, a rules engine for fund regulations, and a setup wizard so any community group can run it. | TypeScript |
 | **[Skin Gallery](https://www.skingallery.co.ke)** | Beauty marketplace where customers shop products, book services and connect with beauty providers. | React · TypeScript · Supabase · Vercel |
 | **Tujiajiri** | Verified career discovery for Kenyans: job discovery with trust labels, private CVs, M-Pesa profile verification, employer tools and admin moderation. | Next.js · Supabase · M-Pesa Daraja |
 
